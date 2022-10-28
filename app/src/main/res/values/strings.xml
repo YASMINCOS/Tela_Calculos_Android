@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio02</string>
+    <string name="division_text">Realizando divisão</string>
+    <string name="dividir">Dividir</string>
+</resources>
